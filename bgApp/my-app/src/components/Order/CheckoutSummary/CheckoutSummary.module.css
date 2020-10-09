@@ -1,0 +1,17 @@
+.CheckOutSummary{
+  width: 80%;
+  text-align: center;
+  margin: auto;
+}
+.WrapUpMessage{
+  margin-top: -120px;
+  font-size: xxx-large;
+  letter-spacing: 0.1rem;
+  color: coral;
+}
+
+/* @media(min-width:600px){
+  .CheckOutSummary{
+    width: 500px;
+  }
+} */
